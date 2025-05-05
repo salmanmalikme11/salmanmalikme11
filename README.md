@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salman Ahmed
 
-🎓 Aspiring **AI Engineer** & **Web Developer** | 💡 Lifelong Learner | 💻 Tech Enthusiast
+🎓 Aspiring **AI Engineer** & **Web Developer** | 💻 Tech Enthusiast
 
 ---
 
