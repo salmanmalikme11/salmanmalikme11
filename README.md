@@ -1,21 +1,29 @@
 ## Hi, I'm Salman Ahmed
 
- AI Engineer, Pakistan. I mostly work on LLMs and machine learning, and build web apps on the side.
+AI Engineer from Islamabad, Pakistan. I mostly work on LLMs and machine learning, and build backends and web apps around them.
 
-Right now I'm learning how to fine-tune and run open-source models locally.
+- Currently an IT Support Engineer at EMC Corporation, working on SAP workflows and backend automation
+- BS Computer Science, COMSATS University Islamabad
+- Right now I'm learning how to fine-tune and run open-source models locally
+
+**Portfolio:** [salmanmalikme11.github.io](https://salmanmalikme11.github.io)
 
 ### Projects
 
-- **[Medical QLoRA Fine-tuning](https://github.com/salmanmalikme11/medical-qlora-finetuning)**: fine-tuning Llama-3 8B on the MedMCQA dataset with QLoRA and Unsloth
-- **[Local LLM Chatbot](https://github.com/salmanmalikme11/Arch-Technologies-Internship)**: a Streamlit chat app for models served through Ollama, built during my internship at Arch Technologies
+- **[Medical QLoRA Fine-tuning](https://github.com/salmanmalikme11/medical-qlora-finetuning)**: fine-tuning Llama-3.1 8B Instruct on the MedMCQA dataset with QLoRA and Unsloth on a free Colab T4, with the base and fine-tuned models scored on the same 500 questions
+- **[Local LLM Chatbot](https://github.com/salmanmalikme11/local-llm-chatbot)**: a Streamlit chat app for models served through Ollama, with streaming replies, built during my internship at Arch Technologies
+- **[This portfolio](https://github.com/salmanmalikme11/salmanmalikme11.github.io)**: React, Vite, Tailwind and Framer Motion, deployed with GitHub Actions
+
+More on the [portfolio](https://salmanmalikme11.github.io/#projects): flight fare prediction (R² 0.984 on 300K+ flights), an ASP.NET Core ERP backend, a semantic clothing search engine and an image processing desktop app.
 
 ### Tech
 
-**Languages:** Python, JavaScript, C++, HTML/CSS  
-**ML / AI:** PyTorch, Hugging Face Transformers, PEFT / LoRA, scikit-learn, TensorFlow, Keras, Pandas, NumPy  
-**Web:** React, Node.js, Express, MongoDB, Tailwind CSS  
-**Tools:** Git, Linux, Streamlit, Ollama, Google Colab
+**Languages:** Python, C#, C++, JavaScript, TypeScript, SQL  
+**ML / AI:** PyTorch, Hugging Face Transformers, PEFT / LoRA, scikit-learn, TensorFlow, Keras, OpenCV, Pandas, NumPy  
+**Backend:** ASP.NET Core, FastAPI, Node.js, Express, PostgreSQL, MongoDB  
+**Frontend:** React, Tailwind CSS, Streamlit  
+**Tools:** Git, Linux, Ollama, Google Colab, SAP
 
 ### Contact
 
-salmanmalikme11@gmail.com
+salmanmalikme11@gmail.com · [LinkedIn](https://www.linkedin.com/in/salman-ahmed-a6b164362)
