@@ -6,6 +6,8 @@ AI Engineer from Islamabad, Pakistan. I mostly work on LLMs and machine learning
 - BS Computer Science, COMSATS University Islamabad
 - Right now I'm learning how to fine-tune and run open-source models locally
 
+**Portfolio:** [salmanahmed-cyan.vercel.app](https://salmanahmed-cyan.vercel.app)
+
 ### Projects
 
 - **[Medical QLoRA Fine-tuning](https://github.com/salmanmalikme11/medical-qlora-finetuning)**: fine-tuning Llama-3.1 8B Instruct on the MedMCQA dataset with QLoRA and Unsloth on a free Colab T4, with the base and fine-tuned models scored on the same 500 questions
