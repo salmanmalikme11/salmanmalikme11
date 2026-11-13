@@ -1,6 +1,6 @@
 ## Hi, I'm Salman Ahmed
 
-CS undergrad at COMSATS University, Pakistan. I mostly work on LLMs and machine learning, and build web apps on the side.
+ AI Engineer, Pakistan. I mostly work on LLMs and machine learning, and build web apps on the side.
 
 Right now I'm learning how to fine-tune and run open-source models locally.
 
