@@ -1,40 +1,21 @@
-# 👋 Hi, I'm Salman Ahmed
+## Hi, I'm Salman Ahmed
 
-🎓 Aspiring **AI Engineer** & **Web Developer** | 💻 Tech Enthusiast
+CS undergrad at COMSATS University, Pakistan. I mostly work on LLMs and machine learning, and build web apps on the side.
 
----
+Right now I'm learning how to fine-tune and run open-source models locally.
 
-## 📌 About Me
+### Projects
 
-I'm currently a student with a deep interest in **Artificial Intelligence** and **Web Development**. I love building smart systems, exploring machine learning algorithms, and creating intuitive web applications. I'm always open to collaboration, learning opportunities, and exciting projects!
+- **[Medical QLoRA Fine-tuning](https://github.com/salmanmalikme11/medical-qlora-finetuning)**: fine-tuning Llama-3 8B on the MedMCQA dataset with QLoRA and Unsloth
+- **[Local LLM Chatbot](https://github.com/salmanmalikme11/Arch-Technologies-Internship)**: a Streamlit chat app for models served through Ollama, built during my internship at Arch Technologies
 
----
+### Tech
 
-## 🧠 Skills & Tools
+**Languages:** Python, JavaScript, C++, HTML/CSS  
+**ML / AI:** PyTorch, Hugging Face Transformers, PEFT / LoRA, scikit-learn, TensorFlow, Keras, Pandas, NumPy  
+**Web:** React, Node.js, Express, MongoDB, Tailwind CSS  
+**Tools:** Git, Linux, Streamlit, Ollama, Google Colab
 
-**Languages**  
-`Python` `JavaScript` `HTML` `CSS` `C++`
+### Contact
 
-**AI/ML Tools**  
-`NumPy` `Pandas` `TensorFlow` `Keras` `scikit-learn`
-
-**Web Development**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-**Tools & Platforms**  
-`Git` `GitHub` `VS Code` `Linux` `Firebase`
-
----
-
-## 🚀 Featured Projects
-
-- [🔗 AI Image Classifier](https://github.com/your-username/image-classifier) – Deep learning model for image recognition  
-- [🌐 Portfolio Website](https://github.com/your-username/portfolio-site) – My personal responsive portfolio  
-- [🧠 Chatbot using NLP](https://github.com/your-username/nlp-chatbot) – Python-based chatbot with intent classification
-
----
-
-## 📫 Let's Connect
-
-- **Email:** salmanmalikme11@gmail.com  
-
+salmanmalikme11@gmail.com
